@@ -62,11 +62,14 @@ I enjoy exploring new technologies, writing clean and maintainable code, and con
 
 ---
 
+
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmdzulfkri&show_icons=true&hide_border=true&theme=transparent)
+<p align="center">
+  <img src="./profile/stats.svg" height="165" alt="GitHub Statistics" />
+  <img src="./profile/top-langs.svg" height="165" alt="Top Languages" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdzulfkri&layout=compact&hide_border=true&theme=transparent)
 
 ---
 
